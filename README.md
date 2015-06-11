@@ -1,0 +1,2 @@
+# idearepo
+some ideas
